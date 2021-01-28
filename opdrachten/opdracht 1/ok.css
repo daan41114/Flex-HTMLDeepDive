@@ -1,0 +1,10 @@
+h1.title {
+    background-color: gray;
+    color:white;
+    font-size: 48px;
+}
+
+p.normaal {
+    margin: 10px;
+    padding: 5px;
+}
